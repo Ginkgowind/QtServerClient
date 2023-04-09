@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ginkgolinux/QtServerClient/TinyQtServer/build",
+  "command": "g++   -I/home/ginkgolinux/chenshuo/build/release-install-cpp11/include -I/home/ginkgolinux/QtServerClient/TinyQtServer  -g -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -rdynamic -O0   -o CMakeFiles/echo.dir/main.cpp.o -c /home/ginkgolinux/QtServerClient/TinyQtServer/main.cpp",
+  "file": "/home/ginkgolinux/QtServerClient/TinyQtServer/main.cpp"
+}
+]
