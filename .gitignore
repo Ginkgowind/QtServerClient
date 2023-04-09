@@ -1,3 +1,5 @@
 TinyQtClient/.vs
 TinyQtClient/debug
 TinyQtClient/release
+TinyQtServer/.vscode
+TinyQtServer/build
