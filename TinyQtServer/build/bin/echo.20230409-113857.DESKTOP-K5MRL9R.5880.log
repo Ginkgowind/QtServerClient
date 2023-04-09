@@ -1,2 +1,0 @@
-20230409 11:38:57.964085Z  5880 INFO  pid = 5880, tid = 5880 - main.cpp:81
-20230409 11:39:17.475126Z  5880 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#1] from 127.0.0.1:50562 - TcpServer.cc:80
