@@ -1,3 +1,0 @@
-/home/ginkgolinux/QtServerClient/TinyQtServer/build/CMakeFiles/rebuild_cache.dir
-/home/ginkgolinux/QtServerClient/TinyQtServer/build/CMakeFiles/edit_cache.dir
-/home/ginkgolinux/QtServerClient/TinyQtServer/build/CMakeFiles/echo.dir
